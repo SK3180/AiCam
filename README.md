@@ -2,6 +2,8 @@ AI Camera: Product Recognition
 
 Welcome to the AI Camera project! This application allows you to take a picture of any product or object, and it uses AI-powered recognition to provide information about the item captured.
 
+Demo Video Link - https://drive.google.com/drive/folders/1vdePT1-pSGKw3sPofTM7NOHSQtSXludL?usp=sharing
+
 ## Features
 
 - **Take a Photo**: Capture an image using your device's camera.
