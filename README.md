@@ -18,7 +18,7 @@ Google AI: GenerativeAI for image recognition and content generation.
 Text-to-Speech (TTS): Android API for converting text into speech.
 
 
-![Project Image](https://github.com/SK3180/AiCam/assets/82767208/9e519b23-ec97-4e55-8009-378164848497)
-![Image 2](https://github.com/SK3180/AiCam/assets/82767208/3bb8f95b-1378-4576-946d-9e671cea4a93)
-![Image 3](https://github.com/SK3180/AiCam/assets/82767208/673f9bf5-c9f2-4a16-b5d2-2e4646a4e007)
+<img src="https://github.com/SK3180/AiCam/assets/82767208/9e519b23-ec97-4e55-8009-378164848497" width="200">
+<img src="https://github.com/SK3180/AiCam/assets/82767208/3bb8f95b-1378-4576-946d-9e671cea4a93" width="200">
+<img src="https://github.com/SK3180/AiCam/assets/82767208/673f9bf5-c9f2-4a16-b5d2-2e4646a4e007" width="200">
 
