@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781704976051",
+    "project_id": "radr-83791",
+    "storage_bucket": "radr-83791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781704976051:android:15370c868e729c503442c6",
+        "android_client_info": {
+          "package_name": "com.sksingh.radr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB20_7j6Wutn5gs19ZZi8iVhQSKEzj4KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
