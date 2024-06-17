@@ -51,7 +51,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application), T
     fun processImage(bitmap: Bitmap, onResult: (String) -> Unit) {
 
         // due to time issue i have used the api key directly...
-        val apiKey = "AIzaSyDE0bDOAeM6-qULjT-9VJvOj-SZm25pRRg"
+        val apiKey = "Enter Your Api Key Here"
 
         val generativeModel = GenerativeModel(
             modelName = "gemini-1.5-flash",
